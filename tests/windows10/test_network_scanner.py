@@ -1,5 +1,5 @@
 import pytest
-from WindowsScan.network_scanner import NetworkScanner
+from windows10.network_scanner import NetworkScanner
 
 def test_network_scanner():
     scanner = NetworkScanner()
