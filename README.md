@@ -67,4 +67,4 @@ WindowsScan is an **advanced vulnerability scanner** designed for **Windows 10 (
 
 ### **2. Install from PyPI**
 ```bash
-pip install winvulnscan￼Enter
+pip install windows10￼Enter
