@@ -1,5 +1,5 @@
 for cloning 
-git clone https://github.com/yourusername/WindowsScan.git
+git clone https://github.com/your username/jbbversion/WindowsScan.git
 
 
 
