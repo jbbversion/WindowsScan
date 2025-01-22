@@ -1,6 +1,6 @@
 for cloning 
 git clone https://github.com/yourusername/WindowsScan.git
-cd WindowsScan
+
 
 
 
