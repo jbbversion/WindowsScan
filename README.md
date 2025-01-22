@@ -1,9 +1,16 @@
-# WinVulnScan
+for cloning 
+git clone https://github.com/yourusername/WinVulnScan.git
+cd WinVulnScan
+
+
+
+
+# WindowsScan
 
 [![Python CI](https://github.com/yourusername/WinVulnScan/actions/workflows/python.yml/badge.svg)](https://github.com/yourusername/WinVulnScan/actions/workflows/python.yml)
 [![GitHub stars](https://img.shields.io/github/stars/yourusername/WinVulnScan?style=social)](https://github.com/yourusername/WinVulnScan)
 
-WinVulnScan is an **advanced vulnerability scanner** designed for **Windows 10 (64-bit)**. It provides a comprehensive suite of tools to identify, analyze, and report security vulnerabilities in **local systems**, **remote servers**, and **networks**. The tool is designed for **security professionals**, **system administrators**, and **developers** who need to ensure the security and compliance of their systems.
+WindowsScan is an **advanced vulnerability scanner** designed for **Windows 10 (64-bit)**. It provides a comprehensive suite of tools to identify, analyze, and report security vulnerabilities in **local systems**, **remote servers**, and **networks**. The tool is designed for **security professionals**, **system administrators**, and **developers** who need to ensure the security and compliance of their systems.
 
 ---
 
